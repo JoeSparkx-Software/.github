@@ -35,6 +35,20 @@ https://github.com/JoeSparkx-Software/WindowsXIV-Authenticator
 **Releases:**  
 https://github.com/JoeSparkx-Software/WindowsXIV-Authenticator/releases
 
+## Windows XIV Authenticator XL Provider
+
+[![Windows XIV Authenticator XL Provider](https://github.com/JoeSparkx-Software/.github/blob/main/profile/otpprovider.png)](https://github.com/JoeSparkx-Software/WindowsXIVAuthenticator-XLProvider)
+
+A small OTP provider DLL for XIVLauncher that lets it fetch one-time passwords from [Windows XIV Authenticator](https://github.com/JoeSparkx-Software/WindowsXIV-Authenticator).
+
+I built my own authenticator integration as the first test case for the provider system and confirmed the full flow works end to end:
+
+**XIVLauncher → Provider DLL → Windows XIV Authenticator → Windows Hello → OTP → Login**
+
+The provider repo also includes a simple example implementation so anyone wanting to support another authenticator can fork it or copy the sample and wire in their own provider.
+
+[Provider DLL](https://github.com/JoeSparkx-Software/WindowsXIVAuthenticator-XLProvider) · [Windows XIV Authenticator](https://github.com/JoeSparkx-Software/WindowsXIV-Authenticator/releases)
+
 ---
 
 ## Support

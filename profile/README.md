@@ -77,10 +77,9 @@ For Windows XIV Authenticator, no authenticator secrets, account credentials, te
 
 You can also find related projects and resources through:
 
-- XIV Mods — https://xivmods.com/
 - GitHub — https://github.com/JoeSparkx-Software
 - Ko-fi — https://ko-fi.com/joesparkx
-- Discord - https://discord.xivmods.com
+- Discord - https://discord.gg/WCevxNTjCa
 
 ---
 

@@ -37,15 +37,6 @@ https://github.com/JoeSparkx-Software/WindowsXIV-Authenticator/releases
 
 ---
 
-## XIV Mods
-
-A curated Final Fantasy XIV plugin catalogue, guides, recommendations, and resources.
-
-**Website:**  
-https://xivmods.com/
-
----
-
 ## Support
 
 JoeSparkx Software projects are developed independently and made available free to use.
